@@ -1,0 +1,35 @@
+.table{
+    border-collapse: collapse !important;
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    height: auto;
+    width: 50%;
+    float: initial;
+    min-height: 150px;
+    position: static;
+}
+.table th tr td{
+    border: 1px solid black;
+    height: 50px;
+    text-align: left;
+}
+.upload{
+    display: flex;
+    
+}
+tr :hover{
+    background-color:#ddd;
+}
+
+.btn{
+    background-color: #00a3ad;
+    font-weight: bold;
+    border: 1px solid #007ca1;
+    border-radius: 8px 8px 8px 8px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 12px;
+
+
+
+}
