@@ -7,7 +7,5 @@ Run `npm start`
 
 
 Sample file->
-Neetu|singh,yashwant,singh,cisco,singh
-Salgiyaji,ruchi,jain,pratikji,test,test
-row3,ruchi,jain,pratikji,test,test 
-row4,ruchi,jain,pratikji,test,test 
+
+testAPI is the sample file inside api folder which is directly read through server.
